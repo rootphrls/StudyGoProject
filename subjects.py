@@ -1,0 +1,5 @@
+subjects_list = ("Aardrijkskunde","Anders","Biologie","Bulgaars","Chinees(Kantonees)","Chinese talen","CKV","Deens","Duits","Economie","Engels","Fins","Frans","Fries","Geschiedenis","Grieks","Hongaars","Informatiekunde","Italiaans","Japans","KCV","Latijn","Levensbeschouwing","Maatschappijleer","Muziek","NaSk","Natuurkunde","Nederlands","Noors","Pools","Portugees","Rekenen","Roemeens","Russisch","Scheikunde","Slim leren","Spaans","Taal","Techniek","Turks","Verzorging","Wiskunde","Zweeds")
+
+usage_description = "   DESCRIPTION USAGE   \n1. Select your subject\n2.Give your study set a title\nUpload your photo that you want\n to use for the selection of the words.\nPress on 'Start Process' and enjoy engineering!"
+
+note_description = "Warning!\nIt's highly recommended to use a picture which \njust consists the words you want \nto use in the studyset.\nOtherwise it will set all the words \nin the picture to your studyset!!!"
